@@ -1,0 +1,59 @@
+{
+  "slug": "no-code-ia-pour-entrepreneurs-africains",
+  "title": "Créer des solutions IA sans coder : No‑Code pour les entrepreneurs africains",
+  "description": "Apprenez à concevoir des applications intelligentes en utilisant des plateformes no‑code et des modèles IA pré‑entraînés, sans aucune ligne de code. Vous partirez d’idées concrètes pour automatiser votre business.",
+  "level": "debutant",
+  "icon": "🤖",
+  "tags": [
+    "no-code",
+    "IA",
+    "automatisation",
+    "entrepreneuriat",
+    "Afrique"
+  ],
+  "price": 5000,
+  "free_chapters": 2,
+  "version": "1.0.0",
+  "chapters": [
+    {
+      "file": "01-introduction-ia-no-code.md",
+      "title": "Introduction à l'IA No‑Code pour les entrepreneurs africains"
+    },
+    {
+      "file": "02-concepts-fondamentaux-ia-no-code.md",
+      "title": "Concepts fondamentaux : IA, Machine Learning et No‑Code"
+    },
+    {
+      "file": "03-decouverte-plateformes-no-code-ia.md",
+      "title": "Découverte des plateformes No‑Code IA"
+    },
+    {
+      "file": "04-chatbot-ia-avec-chatgpt-landbot.md",
+      "title": "Créer un chatbot IA avec ChatGPT et Landbot"
+    },
+    {
+      "file": "05-automatisation-prospection-avec-zapier-ia.md",
+      "title": "Automatiser la prospection commerciale avec Zapier et IA"
+    },
+    {
+      "file": "06-analyse-donnees-client-google-sheets-ia.md",
+      "title": "Analyse de données client avec Google Sheets + IA"
+    },
+    {
+      "file": "07-generation-contenu-marketing-no-code-ia.md",
+      "title": "Générer du contenu marketing avec des outils IA No‑Code"
+    },
+    {
+      "file": "08-application-recommandation-produit-no-code.md",
+      "title": "Construire une application de recommandation produit"
+    },
+    {
+      "file": "09-deploiement-scaling-solution-ia-afrique.md",
+      "title": "Déployer et scaler votre solution IA sur le cloud africain"
+    },
+    {
+      "file": "10-etude-de-cas-projet-final.md",
+      "title": "Étude de cas : succès d’un entrepreneur africain & projet final"
+    }
+  ]
+}
